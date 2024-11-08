@@ -27,4 +27,4 @@ The project uses data from the [FastF1 library](https://theoehrly.github.io/Fast
 
 - **Lap Times**: Verstappen showed slightly faster and more consistent lap times compared to Hamilton across the race.
 - **Sector Performance**: Verstappen recorded faster times in each sector, particularly in Sector 2.
-- **Position Changes**: Hamilton gained positions throughout the r
+- **Position Changes**: Hamilton gained positions throughout the race
