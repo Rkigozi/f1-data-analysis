@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This is my first data analysis project as I begin exploring data analysis with Python! As a big fan of Formula 1, I wanted to dive into F1 race data to compare the performance of two drivers, **Verstappen** and **Hamilton**, in a specific race. This project allowed me to practise fundamental Python skills, data cleaning, visualisation, and interpretation in a real-world sports context.
+This is my first data analysis project as I begin exploring data analysis with Python! As a big fan of Formula 1, I wanted to dive into F1 race data to compare the performance of two drivers, **Verstappen** and **Hamilton**, in a specific race. This project allowed me to practise fundamental Python skills, data cleaning, visualisation, and interpretation in a real-world sports context. The plan is to do more data analysis within the Formula 1 space and draw interesting insights. 
 
 ### Motivation
 
